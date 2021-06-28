@@ -16,5 +16,5 @@ Decision Trees are a type of Supervised Machine Learning (that is you explain wh
 
 
 
-
-
+# Financial Data
+All options index data from 2016-11-28 to 2017-07-10 for the Nifty index was previously downloaded using the python library nsepy. Later, all data was merged and stored on a single csv file for reuseability purposes. 
